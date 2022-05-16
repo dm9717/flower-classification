@@ -1,4 +1,4 @@
-# flower-classification
+# Flower Classification with Convolutional Neural Networks
 
 Baseline_ResNet18_TensorBoard.ipynb implements the up-to-date version of our baseline model.
 
