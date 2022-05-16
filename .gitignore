@@ -1,0 +1,5 @@
+.ipynb_checkpoints/
+saved-models/
+TensorBoard/
+
+*.png
