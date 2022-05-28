@@ -3,4 +3,8 @@ saved-models/
 TensorBoard/
 
 *.png
+<<<<<<< HEAD
 Binary_Classification_Ants_Bees.ipynb
+=======
+Binary_Classification_Ants_Bees.ipynb
+>>>>>>> 5f2e5ff4f881e8fd79436766a314861a1d06b6aa
