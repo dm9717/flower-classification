@@ -1,8 +1,12 @@
 # Flower Classification with Convolutional Neural Networks
 
-Baseline_ResNet18_TensorBoard.ipynb implements the up-to-date version of our baseline model.
+ResNet18_TensorBoard_DataAugmented_HyperparamsTuned.ipynb implements hyperparameter tuning with data augmentation.
 
-Baseline_ResNet18_Extended.ipynb visualizes prediction results in the form of a matrix.
+Baseline_ResNet18_TensorBoard.ipynb is our baseline model.
+
+Baseline_ResNet18_TensorBoard_DataAugmented.ipynb is our baseline model with data augmentation.
+
+Evaluation_Metrics.ipynb visualizes evaluation metrics and confusion matrices.
 
 Visualize_Data.ipynb visualizes the distributions of the training set and the validation set.
 
